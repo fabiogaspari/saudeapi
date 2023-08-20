@@ -1,2 +1,2 @@
 # Gerenciamento de saúde
-Backend para gerenciamento dos processos de saúde
+Backend para gerenciamento de processos de saúde
